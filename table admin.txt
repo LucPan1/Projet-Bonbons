@@ -1,0 +1,19 @@
+//mettre une clé primaire sur id
+
+create table admin(
+    id int(2),
+    login char(25),
+    mdp char(45),
+    CONSTRAINT Pk_admin PRIMARY KEY (id)
+)engine=INNODB; 
+
+
+//changer une valeur dans le table admin dans le mdp
+
+ALTER TABLE admin CHANGE mdp mdp CHAR(255); 
+
+
+//inserer un login et un mot de passe et md5 est une fonction en sql et php
+
+insert into admin(login, mdp)
+values(1, "luc", md5("luc1"))
