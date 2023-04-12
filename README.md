@@ -8,7 +8,8 @@ Une fois l'installation terminé, ouvrir le server de base de données en mettan
 Tu as plus qu'à prendre le prendre le dossier en zip, extracte la et met le dossier qui se trouve dans le Windows(C:) 
 dans wamp64 et dans le dossier www 
 
-Pour se connecter à la base de données mysql: mettre le login: root et pas de mot de passe taper entrer tout simplement
+Pour se connecter à la base de données mysql: mettre le login: root et pas de mot de passe taper entrer tout simplement.
+
 Prend la base de données nommée "bonbonsl" puis intégre la dans la base de données mysql
 Pour se connecter à l'admin: le login: luc et le mdp: luc1
 
