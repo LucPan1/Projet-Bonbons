@@ -14,4 +14,5 @@ Prend la base de données nommée "bonbonsL.sql" puis intégre la dans la base d
 
 Pour se connecter à l'admin: le login: luc et le mdp: luc1
 
-Voilà, il y a plus qu'à tester en mettant l'adresse "127.0.0.1/bonbon_L" dans ton navigateur.
+Voilà, il y a plus qu'à tester en mettant l'adresse "127.0.0.1/bonbon_L" dans ton navigateur
+en supprimant, modifiant, ou en ajoutant une image de ton choix.
