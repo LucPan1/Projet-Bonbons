@@ -14,4 +14,4 @@ Prend la base de données nommée "bonbonsl" puis intégre la dans la base de do
 
 Pour se connecter à l'admin: le login: luc et le mdp: luc1
 
-Et ensuite cela devrait être bon, il y a plus qu'à tester !
+Voilà, il y a plus qu'à tester en mettant l'adresse "127.0.0.1/bonbon_L" dans ton navigateur.
