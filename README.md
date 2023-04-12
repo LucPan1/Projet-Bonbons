@@ -10,7 +10,8 @@ dans wamp64 et dans le dossier www
 
 Pour se connecter à la base de données mysql: mettre le login: root et pas de mot de passe taper entrer tout simplement.
 
-Prend la base de données nommée "bonbonsl" puis intégre la dans la base de données mysql
+Prend la base de données nommée "bonbonsl" puis intégre la dans la base de données mysql.
+
 Pour se connecter à l'admin: le login: luc et le mdp: luc1
 
 Et ensuite cela devrait être bon, il y a plus qu'à tester !
