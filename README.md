@@ -1,6 +1,6 @@
 # Projet-Bonbons
 
-Ce site a été conçu pour appliquer nos premières compétences acquises en première année.
+Ce site a été conçu pour appliquer mes premières compétences acquises en première année.
 
 Nous avons principalement utilisé PHP pour implémenter des fonctionnalités telles que l'ajout, la modification et la suppression de bonbons dans la base de données.
 
